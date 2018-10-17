@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Caesar.cpp
+e:\facultate\visualprojects\caesarcipher\caesarcipher\caesar.cpp(19): warning C4018: '<': signed/unsigned mismatch
+e:\facultate\visualprojects\caesarcipher\caesarcipher\caesar.cpp(48): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  CaesarCipher.vcxproj -> E:\FACULTATE\VisualProjects\CaesarCipher\Debug\CaesarCipher.exe
+  CaesarCipher.vcxproj -> E:\FACULTATE\VisualProjects\CaesarCipher\Debug\CaesarCipher.pdb (Partial PDB)
